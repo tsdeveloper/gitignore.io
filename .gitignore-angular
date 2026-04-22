@@ -1,5 +1,5 @@
-# Created by https://www.toptal.com/developers/gitignore/api/react,jetbrains+all,visualstudiocode,angular
-# Edit at https://www.toptal.com/developers/gitignore?templates=react,jetbrains+all,visualstudiocode,angular
+# Created by https://www.toptal.com/developers/gitignore/api/angular,jetbrains+all,visualstudiocode
+# Edit at https://www.toptal.com/developers/gitignore?templates=angular,jetbrains+all,visualstudiocode
 
 ### Angular ###
 ## Angular ##
@@ -121,22 +121,6 @@ fabric.properties
 !.idea/codeStyles
 !.idea/runConfigurations
 
-### react ###
-.DS_*
-*.log
-logs
-**/*.backup.*
-**/*.back.*
-
-node_modules
-bower_components
-
-*.sublime*
-
-psd
-thumb
-sketch
-
 ### VisualStudioCode ###
 .vscode/*
 !.vscode/settings.json
@@ -156,4 +140,4 @@ sketch
 .history
 .ionide
 
-# End of https://www.toptal.com/developers/gitignore/api/react,jetbrains+all,visualstudiocode,angular
+# End of https://www.toptal.com/developers/gitignore/api/angular,jetbrains+all,visualstudiocode
